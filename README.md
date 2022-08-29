@@ -34,7 +34,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 * [MIT](http://MIT.com/)
 
-* _copywrite(c)2022 Tega_
+* _copywrite(c)2022 kelvin_wooldbidge_
 
 ## Known Bugs
 
